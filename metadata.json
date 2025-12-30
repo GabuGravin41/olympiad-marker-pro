@@ -1,0 +1,7 @@
+{
+  "name": "Olympiad Marker Pro",
+  "description": "A high-performance system for marking mathematical Olympiad papers using advanced AI vision and reasoning. Supports batch PDF processing, resumable marking, and spreadsheet exports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
